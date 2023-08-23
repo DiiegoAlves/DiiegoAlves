@@ -1,12 +1,11 @@
 # Olá, Eu sou o Diego, Seja bem vindo(a). 
 
+![hippo](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+
 - ### Sobre
 Tenho 20 anos e atualmente estou morando em São Paulo. Sou apaixonado na Área de T.I, mais especificamente
 na Área de Hardware, também gosto de programação de jogos e web-sites. No momento, estou me capacitando em
 Desenvolvedor Front-End, Programa Oferecido pela Ford Enter na Escola **SENAI**.
-
-
-
 
 - ### Meu primeiro contato com a Tecnologia
 
