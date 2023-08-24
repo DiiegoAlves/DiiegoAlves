@@ -1,4 +1,4 @@
-# Olá, Eu sou o Diego, Seja bem vindo(a). 
+# <p align="center"> Olá, Eu sou o Diego, Seja bem vindo(a). </p>
 
 ![hippo](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
 
