@@ -13,7 +13,7 @@ relacionados a T.I e ajudar quem não tinha conhecimento, isso foi a minha inspi
 
 ### <p align="center"> Conhecimentos </p>
 
-<img height="150" src="https://img.icons8.com/?size=1x&id=OlmjyQ9zkRzF&format=png")
+<img height="150" src="https://img.icons8.com/?size=1x&id=OlmjyQ9zkRzF&format=png">
 ...
 
 
