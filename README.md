@@ -12,10 +12,7 @@ estava em crescimento e não havia atingido a vida das pessoas, através disso e
 relacionados a T.I e ajudar quem não tinha conhecimento, isso foi a minha inspiração para seguir na área que além de ajudar pessoas, me faz feliz. </p>*
 
 ### <p align="center"> Conhecimentos </p>
-
-<img height="150" src="https://img.icons8.com/?size=1x&id=OlmjyQ9zkRzF&format=png">
 ...
-
 
 #### <p align="center"> Me encontre aqui também: </p>
 
